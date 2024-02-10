@@ -1,3 +1,8 @@
+# InnoSetup languages fixer of extracted script
+
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-languages-fixer-of-extracted-script/total.svg)](https://github.com/Wilenty/InnoSetup-languages-fixer-of-extracted-script/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-languages-fixer-of-extracted-script/latest/total.svg)](https://github.com/Wilenty/InnoSetup-languages-fixer-of-extracted-script/releases/latest)
+
 If my tool helps you in any way, please support me.<br>
 <br>
 If you wants to rebuild old InnoSetup installer, but you lost the source, or you wants update abandoned installer of the InnoSetup, this tool should help you include correct InnoSetup languages, instead of the stubs from extracted installer.<br>
