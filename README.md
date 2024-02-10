@@ -1,5 +1,6 @@
 # InnoSetup languages fixer of extracted script
 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-languages-fixer-of-extracted-script.svg)](https://github.com/Wilenty/InnoSetup-languages-fixer-of-extracted-script/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-languages-fixer-of-extracted-script/total.svg)](https://github.com/Wilenty/InnoSetup-languages-fixer-of-extracted-script/releases)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-languages-fixer-of-extracted-script/latest/total.svg)](https://github.com/Wilenty/InnoSetup-languages-fixer-of-extracted-script/releases/latest)
 
